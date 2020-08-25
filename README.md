@@ -1,5 +1,8 @@
 <h1 align="center"><strong>Proffy</strong></h1>
 
+![proffy](https://user-images.githubusercontent.com/38691922/91113724-9d614a00-e65c-11ea-82f0-3fbdb3f1bdc5.png)
+
+
 <h2>Projeto</h2>
 
 O Proffy é um projeto que tem como intuito conectar alunos a professores.
